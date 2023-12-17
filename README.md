@@ -10,9 +10,9 @@
 
 ## 2. Data
 
-- Kalapa dataset.
+- Kalapa [dataset](https://drive.google.com/drive/folders/1s3mGm31XuI5v8Q2__-Y5m_9vZZQXtqwI?usp=drive_link).
 - Vietnamese address [dataset](https://github.com/thien0291/vietnam_dataset)
-- Processed [corpus](https://github.com/manhdh32/1st_kalapa_ocr/blob/main/resources/address_corpus.txt)
+- Processed [address corpus](https://github.com/manhdh32/1st_kalapa_ocr/blob/main/resources/address_corpus.txt)
 - Synthetic data. Download my generated data [here](https://drive.google.com/drive/folders/1B2D5eh3euxtOKAPUJiH3jacatfm4UHKh?usp=sharing)
 
 ## 3. Training
