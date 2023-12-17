@@ -7,3 +7,4 @@ tqdm
 kenlm
 pillow
 albumentations
+paddle2onnx
