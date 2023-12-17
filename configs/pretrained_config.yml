@@ -11,7 +11,6 @@ Global:
   - 2500
   cal_metric_during_train: true
   pretrained_model:
-  # checkpoints: ./PaddleOCR/output/final_hard/best_accuracy
   save_inference_dir: null
   use_visualdl: false
   infer_img:
